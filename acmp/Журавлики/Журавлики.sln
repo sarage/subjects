@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Журавлики", "Журавлики\Журавлики.vcxproj", "{8557AD55-F0CA-4970-9F3F-E966EFDAFF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8557AD55-F0CA-4970-9F3F-E966EFDAFF7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8557AD55-F0CA-4970-9F3F-E966EFDAFF7C}.Debug|Win32.Build.0 = Debug|Win32
+		{8557AD55-F0CA-4970-9F3F-E966EFDAFF7C}.Release|Win32.ActiveCfg = Release|Win32
+		{8557AD55-F0CA-4970-9F3F-E966EFDAFF7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
